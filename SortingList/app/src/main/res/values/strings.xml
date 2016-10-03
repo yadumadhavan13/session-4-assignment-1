@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SortingList</string>
+    <string name="descending_button">descending_button</string>
+    <string name="ascending_button">ascending_button</string>
+</resources>
